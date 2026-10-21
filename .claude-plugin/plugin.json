@@ -9,6 +9,8 @@
     "url": "https://evrfit.app"
   },
   "homepage": "https://evrfit.app",
+  "icon": "assets/evrfit.png",
+  "privacyPolicyUrl": "https://evrfit.app/privacy",
   "license": "SEE LICENSE IN LICENSE",
   "keywords": ["evrfit", "fitness", "nutrition", "workouts", "wellness"]
 }
