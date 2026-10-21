@@ -9,6 +9,8 @@
     "url": "https://evrfit.app"
   },
   "homepage": "https://evrfit.app",
+  "repository": "https://github.com/navneetr7/evrfit-claude",
+  "documentationUrl": "https://github.com/navneetr7/evrfit-claude#readme",
   "icon": "assets/evrfit.png",
   "privacyPolicyUrl": "https://evrfit.app/privacy",
   "license": "SEE LICENSE IN LICENSE",
