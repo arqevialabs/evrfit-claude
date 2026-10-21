@@ -1,0 +1,14 @@
+{
+  "name": "evrfit",
+  "displayName": "EvrFit",
+  "version": "0.1.1",
+  "description": "Review your live EvrFit history, log your day, and prepare validated meal and workout plans with the access you choose.",
+  "author": {
+    "name": "Arqevia Labs Private Limited",
+    "email": "support@evrfit.app",
+    "url": "https://evrfit.app"
+  },
+  "homepage": "https://evrfit.app",
+  "license": "SEE LICENSE IN LICENSE",
+  "keywords": ["evrfit", "fitness", "nutrition", "workouts", "wellness"]
+}

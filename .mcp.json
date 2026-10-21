@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "evrfit": {
+      "type": "http",
+      "url": "https://evrfit.app/mcp"
+    }
+  }
+}
