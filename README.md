@@ -29,4 +29,4 @@ For a connection problem, check EvrFit Plus and Connected Assistant, then reconn
 
 [Website](https://evrfit.app) · [Support](https://evrfit.app/support) · [Privacy](https://evrfit.app/privacy) · [Terms](https://evrfit.app/terms)
 
-Published by Arqevia Labs Private Limited. Contact support@evrfit.app. The plugin is distributed under the accompanying proprietary license; EvrFit's app, backend, marks and user data are not licensed by this package.
+Published by Arqevia Labs Private Limited. Publisher contact: support@arqevialabs.com. For EvrFit product support, use the support link above. The plugin is distributed under the accompanying proprietary license; EvrFit's app, backend, marks and user data are not licensed by this package.

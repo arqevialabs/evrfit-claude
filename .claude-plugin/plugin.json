@@ -5,12 +5,12 @@
   "description": "Review your live EvrFit history, log your day, and prepare validated meal and workout plans with the access you choose.",
   "author": {
     "name": "Arqevia Labs Private Limited",
-    "email": "support@evrfit.app",
+    "email": "support@arqevialabs.com",
     "url": "https://evrfit.app"
   },
   "homepage": "https://evrfit.app",
-  "repository": "https://github.com/navneetr7/evrfit-claude",
-  "documentationUrl": "https://github.com/navneetr7/evrfit-claude#readme",
+  "repository": "https://github.com/arqevialabs/evrfit-claude",
+  "documentationUrl": "https://github.com/arqevialabs/evrfit-claude#readme",
   "icon": "assets/evrfit.png",
   "privacyPolicyUrl": "https://evrfit.app/privacy",
   "license": "SEE LICENSE IN LICENSE",
