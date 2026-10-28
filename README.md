@@ -6,7 +6,7 @@ Review your EvrFit history, log your day and prepare supported meal and workout 
 
 ## Connect your account
 
-An existing EvrFit account, age 18 or over, and active EvrFit Plus access are required. Install the plugin, open its **Connectors** tab and connect **EvrFit**. Follow the OAuth handoff to your signed-in EvrFit app, choose the access you want to grant and return to the browser where you started. A computer may show a QR code for iPhone approval. Users do not need to create API keys or OAuth clients. On Claude Code, connect the bundled server through the host's MCP authentication controls.
+An existing EvrFit account, age 18 or over, and active EvrFit Plus access are required. Install the plugin, open its **Connectors** tab and connect **EvrFit**. Sign in on evrfit.app with the same Apple or Google account you use in the EvrFit app, choose the access you want to grant, and you return to Claude. Users do not need to create API keys or OAuth clients. On Claude Code, connect the bundled server through the host's MCP authentication controls.
 
 Manage access or disconnect in **EvrFit → Profile → Connected Assistant**. One assistant can be connected at a time; disconnect the current assistant before switching. Disconnecting stops future EvrFit access; it cannot remove information Claude has already received or clear Claude's saved connection label. The plugin needs its own working account connection even when installed. Assistant and EvrFit subscriptions are separate.
 
